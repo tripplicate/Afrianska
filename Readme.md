@@ -5,7 +5,7 @@
   <h3 align="center">Afrianska</h3>
 
   <p align="center">
-    <a href="https://tripplicate.github.io/Pagination/">See work</a>
+    <a href="https://tripplicate.github.io/Afrianska/">See work</a>
     ·
     <a href="https://bit.ly/3cNCxg0">Figma Project</a>
   </p>
@@ -28,7 +28,7 @@
 
 ## Description
 
-<img src="src/img/all/homepage.png">
+<img src="src/img/all/shot.png">
 
 Educational project for the practice of layout
 
